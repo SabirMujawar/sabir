@@ -11,8 +11,7 @@
   <meta name="citation_firstpage" content="2125">
   <meta name="citation_lastpage" content="2130">
   <meta name="citation_pdf_url" content="https://www.ijsred.com/volume8/issue2/IJSRED-V8I2P311.pdf">
-  <title>Driving Accessibility: The Influence of Transport Infrastructure on Consumer Preferences and Regional Markets</title>
-</head>
+ </head>
 <body>
   <h1>Driving Accessibility: The Influence of Transport Infrastructure on Consumer Preferences and Regional Markets</h1>
   <p><strong>Author:</strong> Sabir Nasir Mujawar</p>
